@@ -42,3 +42,5 @@ Args:
 Returns:
 A 3-D `Tensor` with shape `[batch, time-steps, features]`, similarly to the output of a standard 1-D convolution. 
 
+Only Training.py and Testing.py are for the Machine Learning Part. Other files are MATLAB files to preform the simulation. wave_simulation_hos.f is a g95 Fortran file required to run Initial_spectrum.m which is the main file for the simulation. 
+
