@@ -1,4 +1,4 @@
-# OceanWavePrediction
+# Ocean Wave Prediction
 This repository uses recurrent neural nets to predict the ocean waves from the previous data. It takes the spatiotemporal data from the simulation, and applies Recurrent Neural Net in the time series data. Each node in the time seris data is the spatial domain.
 
 
