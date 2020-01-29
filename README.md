@@ -44,3 +44,7 @@ A 3-D `Tensor` with shape `[batch, time-steps, features]`, similarly to the outp
 
 Only Training.py and Testing.py are for the Machine Learning Part. Other files are MATLAB files to preform the simulation. wave_simulation_hos.f is a g95 Fortran file required to run Initial_spectrum.m which is the main file for the simulation. 
 
+A sample result for the sea state 6 is available on YouTube:
+https://sites.google.com/s/1hRuu0qCt1J0WvueEcveHx4lob9NeS8se/p/1IyRNwqxxCIr4gSpdo9afXEshu3zZ2841/edit
+
+
